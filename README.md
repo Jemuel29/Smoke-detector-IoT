@@ -1,4 +1,5 @@
-IoT-Based Smoke Detector:
+IOT-BASED SMOKE DETECTOR:
+
 Using ArduinoA smart fire safety system that monitors air quality using an Arduino microcontroller and a gas sensor. 
 When smoke or hazardous gas exceeds safe limits, the device sounds a local alarm and leverages 
 IoT connectivity to send real-time alerts to a user's phone, enabling early fire detection and remote monitoring.
